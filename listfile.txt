@@ -1,0 +1,10 @@
+this is the first sentence for word2vec
+this is the second sentence
+yet another sentence
+one more sentence
+and the final sentence
+this is the first sentence for word2vec
+this is the second sentence
+yet another sentence
+one more sentence
+and the final sentence
